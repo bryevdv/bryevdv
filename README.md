@@ -28,7 +28,7 @@ I build open-source tools for data visualization and scientific computing. I'm a
 ## GitHub stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Bryan's GitHub metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="Bryan's GitHub metrics" />
 </p>
 
 ## Around the web
